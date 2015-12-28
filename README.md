@@ -1,6 +1,6 @@
 # Gravatarify
 
-Proudly tested on Semaphore [![Build Status](https://semaphoreci.com/api/v1/projects/3952b6bb-38fa-4c11-ad57-8acabd3f28ca/646017/badge.svg)](https://semaphoreci.com/shiroyasha/gravatarify)
+[![Build Status](https://semaphoreci.com/api/v1/projects/3952b6bb-38fa-4c11-ad57-8acabd3f28ca/646017/badge.svg)](https://semaphoreci.com/shiroyasha/gravatarify)
 
 Gravatar images with an ease.
 
