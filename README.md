@@ -36,7 +36,7 @@ Gravatarify.image("test@gmail.com") # => "http://gravatar.com/avatar/1aedb8d9dc4
 
 The MIT License (MIT)
 
-Copyright (c) [2015] [Igor Šarčević]
+Copyright (c) 2015 Igor Šarčević
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
