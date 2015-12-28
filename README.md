@@ -2,6 +2,8 @@
 
 Gravatar images with an ease.
 
+![Gravatarify logo](https://raw.githubusercontent.com/shiroyasha/gravatarify/master/logo.png)
+
 ## Installation
 
 Add gravatarify to your list of dependencies in `mix.exs`:
