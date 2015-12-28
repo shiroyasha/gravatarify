@@ -5,12 +5,19 @@ defmodule Gravatarify.Mixfile do
     [app: :gravatarify,
      version: "0.1.0",
      description: "Gravatar images with an ease",
-     mantainers: ["Igor Sarcevic (shiroyasha)"],
-     links: %{"GitHub": "https://github.com/shiroyasha/gravatarify"},
      elixir: "~> 1.1",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
+     package: package,
      deps: deps]
+  end
+
+  def package do
+    [
+      mantainers: ["Igor Sarcevic (shiroyasha)"],
+      links: %{"GitHub": "https://github.com/shiroyasha/gravatarify"},
+      licenses: ["Apache 2.0"]
+    ]
   end
 
   def application do
