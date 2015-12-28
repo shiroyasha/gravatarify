@@ -14,7 +14,7 @@ defmodule Gravatarify.Mixfile do
 
   def package do
     [
-      mantainers: ["Igor Sarcevic (shiroyasha)"],
+      maintainers: ["Igor Sarcevic (shiroyasha)"],
       links: %{"GitHub": "https://github.com/shiroyasha/gravatarify"},
       licenses: ["Apache 2.0"]
     ]
